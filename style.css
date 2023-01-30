@@ -1,0 +1,28 @@
+header {
+    display: flex ;
+    padding: 10px;
+    background: #1F2937 ;
+    
+}
+.logo {
+    font-size: large;
+    font-weight: 900px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: auto;
+    margin-left: 90px;
+    color: white;
+    font-size: xx-large;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline;
+    color: white;
+    margin: 10px;
+    
+    
+}
+body {
+   
+    
+}
